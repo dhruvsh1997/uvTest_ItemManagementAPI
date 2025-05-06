@@ -5,7 +5,7 @@
 [![uv](https://img.shields.io/badge/uv-powered-blue.svg)](https://github.com/astral-sh/uv)
 [![Python](https://img.shields.io/badge/Python-3.10-yellow.svg)](https://www.python.org/)
 
-A Django REST Framework API for item management with CRUD operations, powered by **uv** - the ultra-fast Python package manager.
+A Django REST Framework APIs for item management with CRUD operations, powered by **uv** - the ultra-fast Python package manager.
 
 ## 🌟 Features
 
