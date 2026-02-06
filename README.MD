@@ -10,7 +10,7 @@ A Django REST Framework APIs for item management with CRUD operations, powered b
 ## 🌟 Features
 
 - Complete CRUD operations for item management
-- Function-based views for simplicity and performance
+- Function-based views for simplicity and performances
 - Filtering capabilities (by ID, name, date components)
 - Powered by uv for dependency and environment management
 - Python 3.10 isolated environment (no global installation needed)
